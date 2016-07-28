@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indianMovieStars>
+<bollyWood>
+    <actor>salmanKhan</actor>
+    <actor>amirKhan</actor>
+    <actor>hrithik</actor>
+    <actor>sharook</actor>
+    <actor>amithabh</actor>
+</bollyWood>
+<tollyWood>
+    <actor>balaiah</actor>
+    <actor>chiranjeevi</actor>
+    <actor>nagarjuna</actor>
+    <actor>venkatesh</actor>
+    <actor>ntr</actor>
+</tollyWood>
+<kollyWood>
+    <actor>vijay</actor>
+    <actor>surya</actor>
+    <actor>ajith</actor>
+    <actor>dhanush</actor>
+    <actor>rajini</actor>
+</kollyWood>
+<sandalWood>
+    <actor>sudheep</actor>
+    <actor>rana</actor>
+    <actor>virat</actor>
+    <actor>ravi</actor>
+    <actor>vinodh</actor>
+</sandalWood>
+</indianMovieStars>
